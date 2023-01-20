@@ -1,0 +1,16 @@
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/bin/Debug/net5.0/MyOopBank
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/bin/Debug/net5.0/MyOopBank.deps.json
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/bin/Debug/net5.0/MyOopBank.runtimeconfig.json
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/bin/Debug/net5.0/MyOopBank.runtimeconfig.dev.json
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/bin/Debug/net5.0/MyOopBank.dll
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/bin/Debug/net5.0/ref/MyOopBank.dll
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/bin/Debug/net5.0/MyOopBank.pdb
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/obj/Debug/net5.0/MyOopBank.csproj.AssemblyReference.cache
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/obj/Debug/net5.0/MyOopBank.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/obj/Debug/net5.0/MyOopBank.AssemblyInfoInputs.cache
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/obj/Debug/net5.0/MyOopBank.AssemblyInfo.cs
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/obj/Debug/net5.0/MyOopBank.csproj.CoreCompileInputs.cache
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/obj/Debug/net5.0/MyOopBank.dll
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/obj/Debug/net5.0/ref/MyOopBank.dll
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/obj/Debug/net5.0/MyOopBank.pdb
+/mnt/HDD/CURSOS/DOTNET/Console/Local/InasBank/MyOopBank/obj/Debug/net5.0/MyOopBank.genruntimeconfig.cache
